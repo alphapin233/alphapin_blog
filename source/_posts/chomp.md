@@ -6,4 +6,5 @@ content: |
   chomp is a game which is played with two players.
   Each player will take turns taking chocolate from a m*n grid.
   When a piece of chocolate is selected, all the pieces below and to the right of the piece will also be removed.
+  Unfortunately,until now there is not a definitive winning choice for any random size of the whole piece.
 ---
