@@ -12,6 +12,5 @@ When a piece of chocolate is selected, all the pieces below and to the right of 
 
 Unfortunately, until now there is not a definitive winning choice for any random size of the whole piece.
 
-![示例图片](/images/IMG_1329.jpeg)
 
 

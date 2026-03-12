@@ -1,0 +1,16 @@
+# 这里的 post 层级很重要
+post:
+  comments:
+    enable: true
+    type: gitalk
+
+# Gitalk 具体参数（这部分保持顶格没问题）
+gitalk:
+  enable: true
+  clientID: 'Ov23lidRABOhYlVjo40G'
+  clientSecret: 'e893792ab9de3bff2ac965f1a4799f1536a29e8f'
+  repo: 'blog-comment' 
+  owner: 'alphapin233'     
+  admin: ['alphapin233']   
+  id: location.pathname
+  distractionFreeMode: false
